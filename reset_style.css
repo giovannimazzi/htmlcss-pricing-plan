@@ -7,6 +7,8 @@
   --color5: #928f91;
 
   --font1: sans-serif;
+
+  --card-gap: 50px;
 }
 
 * {
@@ -47,10 +49,4 @@ ol {
 .debug,
 .debug * {
   border: 1px dashed red;
-}
-
-.container {
-  margin: 0 auto;
-  max-width: 1200px;
-  /* padding: 0 5px; */
 }
